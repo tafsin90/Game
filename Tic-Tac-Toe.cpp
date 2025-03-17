@@ -55,7 +55,7 @@ int winner(){
     }
     return 0;
 }
-
+//swap player & marker
 void swapGuti(){
     if(players_guti=='x'){
         players_guti='o';
